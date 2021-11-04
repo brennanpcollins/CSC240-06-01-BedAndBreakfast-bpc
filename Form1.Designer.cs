@@ -47,7 +47,7 @@ namespace CSC240_06_01_BedAndBreakfast_bpc
             // 
             this.UxRateLabel.AutoSize = true;
             this.UxRateLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.125F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.UxRateLabel.Location = new System.Drawing.Point(335, 192);
+            this.UxRateLabel.Location = new System.Drawing.Point(335, 199);
             this.UxRateLabel.Name = "UxRateLabel";
             this.UxRateLabel.Size = new System.Drawing.Size(325, 51);
             this.UxRateLabel.TabIndex = 1;
