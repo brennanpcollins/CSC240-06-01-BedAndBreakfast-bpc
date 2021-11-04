@@ -57,6 +57,7 @@ namespace CSC240_06_01_BedAndBreakfast_bpc
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Yellow;
             this.ClientSize = new System.Drawing.Size(1022, 763);
             this.Controls.Add(this.UxRateLabel);
             this.Controls.Add(this.UxWelcomeLabel);
