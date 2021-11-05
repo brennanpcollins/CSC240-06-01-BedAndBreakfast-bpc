@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace CSC240_06_01_BedAndBreakfast_bpc
 {
-    public partial class BelleAireForm : Form
+    public partial class LincolnForm : Form
     {
-        public BelleAireForm()
+        public LincolnForm()
         {
             InitializeComponent();
         }
 
-        private void UxBelleAireDescriptionLabel_Click(object sender, EventArgs e)
+        private void LincolnForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }
